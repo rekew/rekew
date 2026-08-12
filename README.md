@@ -57,4 +57,4 @@ Educational platform built with Elixir/Phoenix supporting B2B and B2C subscripti
 
 ### 📫 Contact
 
-[LinkedIn](#) · [Telegram](#) · [Email](#)
+[LinkedIn](https://linkedin.com/in/rekew) · [Telegram](t.me/lentra2316) · [Email](rekewka2316@gmail.com)
