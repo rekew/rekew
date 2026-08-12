@@ -41,20 +41,6 @@
 - Design Patterns
 - CI/CD
 
-### 🚀 Featured Projects
-
-**Alaman Baige**  
-Full-stack platform built with ASP.NET Core, React, TypeScript and PostgreSQL.
-
-**MathEducator**  
-Educational platform built with Elixir/Phoenix supporting B2B and B2C subscriptions.
-
-### 📚 Currently Learning
-
-- Java / Spring Boot
-- System Design
-- Distributed Systems
-
 ### 📫 Contact
 
 [LinkedIn](https://linkedin.com/in/rekew) · [Telegram](https://t.me/lentra2316)
